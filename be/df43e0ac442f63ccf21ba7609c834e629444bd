@@ -1,0 +1,19 @@
+package.json
+  s_1cbdc0ca463a6c::t_79bf4a45044ba6 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.9",
+  "base_commit_sha": "bedf43e0ac442f63ccf21ba7609c834e629444bd",
+  "prompts": {},
+  "sessions": {
+    "s_1cbdc0ca463a6c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "02568bc2-f0aa-4f14-a802-ab371c1fa27a",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "liukexin <liukexin@xiaohongshu.com>"
+    }
+  }
+}
